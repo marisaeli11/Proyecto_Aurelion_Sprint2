@@ -1,0 +1,344 @@
+﻿id_venta,fecha,id_cliente,cliente,email,ciudad,alta,id_producto,producto,categoria,cantidad,precio_unitario,importe,importe_std,medio_pago_efectivo,medio_pago_qr,medio_pago_tarjeta,medio_pago_transferencia,precio
+1,19-06-2024,62,Guadalupe Romero,guadalupe.romero@mail.com,Carlos Paz,03-03-2023,90,Toallas Húmedas x50,Limpieza,1,2902.0,2902.0,-0.9182589695353444,False,False,True,False,2902.0
+2,17-03-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,82,Aceitunas Negras 200g,Limpieza,5,2394.0,11970.0,0.8063964935333122,False,True,False,False,2394.0
+2,17-03-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,39,Helado Vainilla 1L,Alimentos,5,469.0,2345.0,-1.0241955699907084,False,True,False,False,469.0
+2,17-03-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,70,Fernet 750ml,Limpieza,2,4061.0,8122.0,0.07454005089015053,False,True,False,False,4061.0
+2,17-03-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,22,Medialunas de Manteca,Limpieza,1,2069.0,2069.0,-1.0766883917603323,False,True,False,False,2069.0
+2,17-03-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,79,Hamburguesas Congeladas x4,Alimentos,4,2420.0,9680.0,0.3708582259520128,False,True,False,False,2420.0
+3,13-01-2024,20,Tomas Acosta,tomas.acosta@mail.com,Rio Cuarto,20-01-2023,9,Yerba Mate Suave 1kg,Alimentos,2,3878.0,7756.0,0.00493000463043192,False,False,True,False,3878.0
+3,13-01-2024,20,Tomas Acosta,tomas.acosta@mail.com,Rio Cuarto,20-01-2023,2,Pepsi 1.5L,Limpieza,2,4973.0,9946.0,0.4214491338894039,False,False,True,False,4973.0
+3,13-01-2024,20,Tomas Acosta,tomas.acosta@mail.com,Rio Cuarto,20-01-2023,85,Jugo en Polvo Naranja,Alimentos,1,1856.0,1856.0,-1.11719915638689,False,False,True,False,1856.0
+4,27-02-2024,36,Martina Molina,martina.molina@mail.com,Mendiolaza,05-02-2023,4,Fanta Naranja 1.5L,Limpieza,2,2033.0,4066.0,-0.6968761994634524,False,False,False,True,2033.0
+4,27-02-2024,36,Martina Molina,martina.molina@mail.com,Mendiolaza,05-02-2023,23,Bizcochos Salados,Alimentos,5,2380.0,11900.0,0.7930830967076831,False,False,False,True,2380.0
+5,11-06-2024,56,Bruno Diaz,bruno.diaz@mail.com,Rio Cuarto,25-02-2023,86,Jugo en Polvo Limón,Limpieza,4,4090.0,16360.0,1.641336665883489,False,False,True,False,4090.0
+6,05-05-2024,91,Uma Sanchez,uma.sanchez@mail.com,Mendiolaza,01-04-2023,25,Galletitas Vainilla,Alimentos,2,4015.0,8030.0,0.05704244363360924,False,False,False,True,4015.0
+6,05-05-2024,91,Uma Sanchez,uma.sanchez@mail.com,Mendiolaza,01-04-2023,31,Mix de Frutos Secos 200g,Alimentos,3,3409.0,10227.0,0.47489291257514415,False,False,False,True,3409.0
+6,05-05-2024,91,Uma Sanchez,uma.sanchez@mail.com,Mendiolaza,01-04-2023,83,Queso Untable 190g,Alimentos,1,1830.0,1830.0,-1.122144132350695,False,False,False,True,1830.0
+6,05-05-2024,91,Uma Sanchez,uma.sanchez@mail.com,Mendiolaza,01-04-2023,59,Chicle Menta,Alimentos,4,3612.0,14448.0,1.2776907411605873,False,False,False,True,3612.0
+7,06-05-2024,92,Mariana Rodriguez,mariana.rodriguez@mail.com,Alta Gracia,02-04-2023,63,Granola 250g,Alimentos,3,4337.0,13011.0,1.0043857234687414,True,False,False,False,4337.0
+8,06-01-2024,66,Tomas Herrera,tomas.herrera@mail.com,Villa Maria,07-03-2023,53,Lavandina 1L,Alimentos,5,1664.0,8320.0,0.11219794476835895,False,False,False,True,1664.0
+8,06-01-2024,66,Tomas Herrera,tomas.herrera@mail.com,Villa Maria,07-03-2023,18,Queso Rallado 150g,Limpieza,4,3444.0,13776.0,1.1498821316345467,False,False,False,True,3444.0
+8,06-01-2024,66,Tomas Herrera,tomas.herrera@mail.com,Villa Maria,07-03-2023,68,Vino Blanco 750ml,Limpieza,5,2684.0,13420.0,1.082173999207061,False,False,False,True,2684.0
+9,20-01-2024,86,Diego Torres,diego.torres@mail.com,Cordoba,27-03-2023,65,Cerveza Rubia 1L,Alimentos,4,2423.0,9692.0,0.3731405225506921,True,False,False,False,2423.0
+10,28-05-2024,52,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,21-02-2023,36,Dulce de Leche 400g,Limpieza,2,2559.0,5118.0,-0.4967948643125672,False,True,False,False,2559.0
+10,28-05-2024,52,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,21-02-2023,100,Trapo de Piso,Limpieza,4,4854.0,19416.0,2.222561533013817,False,True,False,False,4854.0
+10,28-05-2024,52,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,21-02-2023,37,Mermelada de Durazno 400g,Alimentos,3,3196.0,9588.0,0.35336061869547153,False,True,False,False,3196.0
+10,28-05-2024,52,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,21-02-2023,62,Stevia 100 sobres,Limpieza,1,3848.0,3848.0,-0.7383379210061263,False,True,False,False,3848.0
+11,10-04-2024,20,Tomas Acosta,tomas.acosta@mail.com,Rio Cuarto,20-01-2023,13,Té Verde 20 saquitos,Alimentos,1,2383.0,2383.0,-1.016968297428224,False,True,False,False,2383.0
+11,10-04-2024,20,Tomas Acosta,tomas.acosta@mail.com,Rio Cuarto,20-01-2023,65,Cerveza Rubia 1L,Alimentos,2,2423.0,4846.0,-0.548526920549298,False,True,False,False,2423.0
+11,10-04-2024,20,Tomas Acosta,tomas.acosta@mail.com,Rio Cuarto,20-01-2023,28,Papas Fritas Clásicas 100g,Limpieza,1,936.0,936.0,-1.2921752289523027,False,True,False,False,936.0
+12,28-06-2024,96,Rocio Gonzalez,rocio.gonzalez@mail.com,Cordoba,06-04-2023,72,Ron 700ml,Limpieza,2,3876.0,7752.0,0.004169239097538821,True,False,False,False,3876.0
+12,28-06-2024,96,Rocio Gonzalez,rocio.gonzalez@mail.com,Cordoba,06-04-2023,50,Azúcar 1kg,Limpieza,2,727.0,1454.0,-1.1936560924426465,True,False,False,False,727.0
+12,28-06-2024,96,Rocio Gonzalez,rocio.gonzalez@mail.com,Cordoba,06-04-2023,56,Papel Higiénico x4,Limpieza,3,2532.0,7596.0,-0.02550061668529206,True,False,False,False,2532.0
+12,28-06-2024,96,Rocio Gonzalez,rocio.gonzalez@mail.com,Cordoba,06-04-2023,87,Sopa Instantánea Pollo,Alimentos,3,1679.0,5037.0,-0.5122003663536525,True,False,False,False,1679.0
+12,28-06-2024,96,Rocio Gonzalez,rocio.gonzalez@mail.com,Cordoba,06-04-2023,38,Mermelada de Frutilla 400g,Limpieza,4,1584.0,6336.0,-0.2651417595466184,True,False,False,False,1584.0
+13,24-01-2024,6,Uma Medina,uma.medina@mail.com,Villa Maria,06-01-2023,87,Sopa Instantánea Pollo,Alimentos,1,1679.0,1679.0,-1.1508630312174095,False,False,True,False,1679.0
+13,24-01-2024,6,Uma Medina,uma.medina@mail.com,Villa Maria,06-01-2023,81,Aceitunas Verdes 200g,Alimentos,3,2520.0,7560.0,-0.03234750648132995,False,False,True,False,2520.0
+13,24-01-2024,6,Uma Medina,uma.medina@mail.com,Villa Maria,06-01-2023,13,Té Verde 20 saquitos,Alimentos,1,2383.0,2383.0,-1.016968297428224,False,False,True,False,2383.0
+14,18-04-2024,67,Ivana Romero,ivana.romero@mail.com,Alta Gracia,08-03-2023,36,Dulce de Leche 400g,Limpieza,4,2559.0,10236.0,0.4766046350241536,False,True,False,False,2559.0
+14,18-04-2024,67,Ivana Romero,ivana.romero@mail.com,Alta Gracia,08-03-2023,72,Ron 700ml,Limpieza,5,3876.0,19380.0,2.2157146432177792,False,True,False,False,3876.0
+14,18-04-2024,67,Ivana Romero,ivana.romero@mail.com,Alta Gracia,08-03-2023,38,Mermelada de Frutilla 400g,Limpieza,3,1584.0,4752.0,-0.5664049105722858,False,True,False,False,1584.0
+14,18-04-2024,67,Ivana Romero,ivana.romero@mail.com,Alta Gracia,08-03-2023,97,Limpiavidrios 500ml,Alimentos,1,872.0,872.0,-1.3043474774785924,False,True,False,False,872.0
+15,27-06-2024,56,Bruno Diaz,bruno.diaz@mail.com,Rio Cuarto,25-02-2023,37,Mermelada de Durazno 400g,Alimentos,3,3196.0,9588.0,0.35336061869547153,False,False,False,True,3196.0
+16,12-04-2024,2,Nicolas Rojas,nicolas.rojas@mail.com,Carlos Paz,02-01-2023,35,Barrita de Cereal 30g,Alimentos,5,4430.0,22150.0,2.7425447747462504,True,False,False,False,4430.0
+17,17-02-2024,88,Felipe Castro,felipe.castro@mail.com,Villa Maria,29-03-2023,81,Aceitunas Verdes 200g,Alimentos,5,2520.0,12600.0,0.9262170649639755,True,False,False,False,2520.0
+17,17-02-2024,88,Felipe Castro,felipe.castro@mail.com,Villa Maria,29-03-2023,46,Lentejas Secas 500g,Limpieza,5,3036.0,15180.0,1.4169108336800247,True,False,False,False,3036.0
+17,17-02-2024,88,Felipe Castro,felipe.castro@mail.com,Villa Maria,29-03-2023,74,Whisky 750ml,Limpieza,3,2953.0,8859.0,0.21471110032570412,True,False,False,False,2953.0
+18,11-06-2024,81,Camila Ruiz,camila.ruiz@mail.com,Carlos Paz,22-03-2023,33,Chocolate con Leche 100g,Alimentos,2,1255.0,2510.0,-0.9928139917588681,False,True,False,False,1255.0
+18,11-06-2024,81,Camila Ruiz,camila.ruiz@mail.com,Carlos Paz,22-03-2023,4,Fanta Naranja 1.5L,Limpieza,5,2033.0,10165.0,0.4631010468153011,False,True,False,False,2033.0
+18,11-06-2024,81,Camila Ruiz,camila.ruiz@mail.com,Carlos Paz,22-03-2023,24,Galletitas Chocolate,Limpieza,2,1305.0,2610.0,-0.9737948534365406,False,True,False,False,1305.0
+18,11-06-2024,81,Camila Ruiz,camila.ruiz@mail.com,Carlos Paz,22-03-2023,15,Leche Descremada 1L,Alimentos,3,2538.0,7614.0,-0.02207717178727311,False,True,False,False,2538.0
+18,11-06-2024,81,Camila Ruiz,camila.ruiz@mail.com,Carlos Paz,22-03-2023,22,Medialunas de Manteca,Limpieza,5,2069.0,10345.0,0.4973354957954906,False,True,False,False,2069.0
+19,11-06-2024,80,Gael Ruiz,gael.ruiz@mail.com,Mendiolaza,21-03-2023,38,Mermelada de Frutilla 400g,Limpieza,2,1584.0,3168.0,-0.8676680615979532,True,False,False,False,1584.0
+19,11-06-2024,80,Gael Ruiz,gael.ruiz@mail.com,Mendiolaza,21-03-2023,98,Desengrasante 500ml,Limpieza,3,2843.0,8529.0,0.1519479438620234,True,False,False,False,2843.0
+19,11-06-2024,80,Gael Ruiz,gael.ruiz@mail.com,Mendiolaza,21-03-2023,63,Granola 250g,Alimentos,3,4337.0,13011.0,1.0043857234687414,True,False,False,False,4337.0
+20,13-01-2024,75,Santiago Castro,santiago.castro@mail.com,Rio Cuarto,16-03-2023,32,Chocolate Amargo 100g,Limpieza,3,2234.0,6702.0,-0.1955317132868998,False,False,True,False,2234.0
+21,19-06-2024,10,Karina Acosta,karina.acosta@mail.com,Cordoba,10-01-2023,76,Pizza Congelada Muzzarella,Limpieza,5,4286.0,21430.0,2.6056069788254925,False,False,False,True,4286.0
+21,19-06-2024,10,Karina Acosta,karina.acosta@mail.com,Cordoba,10-01-2023,35,Barrita de Cereal 30g,Alimentos,1,4430.0,4430.0,-0.6276465359701804,False,False,False,True,4430.0
+22,08-05-2024,64,Julian Alvarez,julian.alvarez@mail.com,Villa Maria,05-03-2023,9,Yerba Mate Suave 1kg,Alimentos,2,3878.0,7756.0,0.00493000463043192,False,False,False,True,3878.0
+22,08-05-2024,64,Julian Alvarez,julian.alvarez@mail.com,Villa Maria,05-03-2023,28,Papas Fritas Clásicas 100g,Limpieza,3,936.0,2808.0,-0.9361369595583322,False,False,False,True,936.0
+22,08-05-2024,64,Julian Alvarez,julian.alvarez@mail.com,Villa Maria,05-03-2023,24,Galletitas Chocolate,Limpieza,4,1305.0,5220.0,-0.4773953432237932,False,False,False,True,1305.0
+23,16-05-2024,78,Emilia Alvarez,emilia.alvarez@mail.com,Villa Maria,19-03-2023,64,Avena Instantánea 250g,Limpieza,4,3953.0,15812.0,1.5371117878771343,False,False,False,True,3953.0
+23,16-05-2024,78,Emilia Alvarez,emilia.alvarez@mail.com,Villa Maria,19-03-2023,83,Queso Untable 190g,Alimentos,4,1830.0,7320.0,-0.07799343845491592,False,False,False,True,1830.0
+24,14-06-2024,55,Olivia Ruiz,olivia.ruiz@mail.com,Mendiolaza,24-02-2023,91,Desodorante Aerosol,Alimentos,2,4690.0,9380.0,0.3138008109850303,False,False,True,False,4690.0
+24,14-06-2024,55,Olivia Ruiz,olivia.ruiz@mail.com,Mendiolaza,24-02-2023,40,Helado Chocolate 1L,Limpieza,5,1215.0,6075.0,-0.31478171056789317,False,False,True,False,1215.0
+25,30-04-2024,13,Ivana Sanchez,ivana.sanchez@mail.com,Carlos Paz,13-01-2023,55,Shampoo 400ml,Alimentos,1,1407.0,1407.0,-1.2025950874541402,False,False,False,True,1407.0
+25,30-04-2024,13,Ivana Sanchez,ivana.sanchez@mail.com,Carlos Paz,13-01-2023,95,Mascarilla Capilar,Alimentos,5,1581.0,7905.0,0.03326852073069988,False,False,False,True,1581.0
+25,30-04-2024,13,Ivana Sanchez,ivana.sanchez@mail.com,Carlos Paz,13-01-2023,72,Ron 700ml,Limpieza,1,3876.0,3876.0,-0.7330125622758746,False,False,False,True,3876.0
+26,23-01-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,79,Hamburguesas Congeladas x4,Alimentos,2,2420.0,4840.0,-0.5496680688486376,True,False,False,False,2420.0
+26,23-01-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,86,Jugo en Polvo Limón,Limpieza,1,4090.0,4090.0,-0.6923116062660938,True,False,False,False,4090.0
+27,25-02-2024,9,Yamila Molina,yamila.molina@mail.com,Carlos Paz,09-01-2023,7,Jugo de Manzana 1L,Alimentos,4,3269.0,13076.0,1.0167481633782542,False,False,False,True,3269.0
+27,25-02-2024,9,Yamila Molina,yamila.molina@mail.com,Carlos Paz,09-01-2023,78,Verduras Congeladas Mix,Limpieza,4,4289.0,17156.0,1.7927290069292159,False,False,False,True,4289.0
+28,20-05-2024,52,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,21-02-2023,74,Whisky 750ml,Limpieza,1,2953.0,2953.0,-0.9085592089909573,False,True,False,False,2953.0
+28,20-05-2024,52,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,21-02-2023,91,Desodorante Aerosol,Alimentos,2,4690.0,9380.0,0.3138008109850303,False,True,False,False,4690.0
+28,20-05-2024,52,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,21-02-2023,72,Ron 700ml,Limpieza,1,3876.0,3876.0,-0.7330125622758746,False,True,False,False,3876.0
+28,20-05-2024,52,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,21-02-2023,18,Queso Rallado 150g,Limpieza,2,3444.0,6888.0,-0.16015611600737067,False,True,False,False,3444.0
+28,20-05-2024,52,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,21-02-2023,27,Alfajor Simple,Alimentos,5,2502.0,12510.0,0.9090998404738807,False,True,False,False,2502.0
+29,20-02-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,58,Caramelos Masticables,Limpieza,1,4752.0,4752.0,-0.5664049105722858,False,True,False,False,4752.0
+29,20-02-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,36,Dulce de Leche 400g,Limpieza,2,2559.0,5118.0,-0.4967948643125672,False,True,False,False,2559.0
+29,20-02-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,71,Vodka 700ml,Alimentos,4,508.0,2032.0,-1.0837254729395935,False,True,False,False,508.0
+29,20-02-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,27,Alfajor Simple,Alimentos,2,2502.0,5004.0,-0.5184766820000205,False,True,False,False,2502.0
+29,20-02-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,66,Cerveza Negra 1L,Limpieza,1,1533.0,1533.0,-1.1786309731680076,False,True,False,False,1533.0
+30,03-03-2024,93,Gael Rojas,gael.rojas@mail.com,Alta Gracia,03-04-2023,49,Harina de Trigo 1kg,Alimentos,4,2512.0,10048.0,0.44084865497817793,True,False,False,False,2512.0
+30,03-03-2024,93,Gael Rojas,gael.rojas@mail.com,Alta Gracia,03-04-2023,78,Verduras Congeladas Mix,Limpieza,3,4289.0,12867.0,0.9769981642845899,True,False,False,False,4289.0
+30,03-03-2024,93,Gael Rojas,gael.rojas@mail.com,Alta Gracia,03-04-2023,82,Aceitunas Negras 200g,Limpieza,4,2394.0,9576.0,0.3510783220967922,True,False,False,False,2394.0
+30,03-03-2024,93,Gael Rojas,gael.rojas@mail.com,Alta Gracia,03-04-2023,7,Jugo de Manzana 1L,Alimentos,1,3269.0,3269.0,-0.8484587318924025,True,False,False,False,3269.0
+31,22-05-2024,19,Uma Silva,uma.silva@mail.com,Mendiolaza,19-01-2023,92,Crema Dental 90g,Limpieza,4,2512.0,10048.0,0.44084865497817793,False,False,True,False,2512.0
+31,22-05-2024,19,Uma Silva,uma.silva@mail.com,Mendiolaza,19-01-2023,90,Toallas Húmedas x50,Limpieza,3,2902.0,8706.0,0.18561181869254306,False,False,True,False,2902.0
+31,22-05-2024,19,Uma Silva,uma.silva@mail.com,Mendiolaza,19-01-2023,84,Queso Azul 150g,Limpieza,5,1645.0,8225.0,0.09412976336214784,False,False,True,False,1645.0
+32,30-01-2024,31,Felipe Ruiz,felipe.ruiz@mail.com,Villa Maria,31-01-2023,72,Ron 700ml,Limpieza,5,3876.0,19380.0,2.2157146432177792,True,False,False,False,3876.0
+32,30-01-2024,31,Felipe Ruiz,felipe.ruiz@mail.com,Villa Maria,31-01-2023,53,Lavandina 1L,Alimentos,4,1664.0,6656.0,-0.20428051691517043,True,False,False,False,1664.0
+32,30-01-2024,31,Felipe Ruiz,felipe.ruiz@mail.com,Villa Maria,31-01-2023,17,Queso Cremoso 500g,Alimentos,3,4834.0,14502.0,1.2879610758546443,True,False,False,False,4834.0
+32,30-01-2024,31,Felipe Ruiz,felipe.ruiz@mail.com,Villa Maria,31-01-2023,35,Barrita de Cereal 30g,Alimentos,3,4430.0,13290.0,1.057449119388035,True,False,False,False,4430.0
+33,13-02-2024,6,Uma Medina,uma.medina@mail.com,Villa Maria,06-01-2023,47,Garbanzos 500g,Alimentos,2,2939.0,5878.0,-0.3522494130628783,True,False,False,False,2939.0
+33,13-02-2024,6,Uma Medina,uma.medina@mail.com,Villa Maria,06-01-2023,76,Pizza Congelada Muzzarella,Limpieza,4,4286.0,17144.0,1.7904467103305366,True,False,False,False,4286.0
+33,13-02-2024,6,Uma Medina,uma.medina@mail.com,Villa Maria,06-01-2023,100,Trapo de Piso,Limpieza,1,4854.0,4854.0,-0.5470053894835117,True,False,False,False,4854.0
+33,13-02-2024,6,Uma Medina,uma.medina@mail.com,Villa Maria,06-01-2023,91,Desodorante Aerosol,Alimentos,2,4690.0,9380.0,0.3138008109850303,True,False,False,False,4690.0
+34,13-01-2024,58,Karina Acosta,karina.acosta2@mail.com,Rio Cuarto,27-02-2023,10,Yerba Mate Intensa 1kg,Limpieza,1,4883.0,4883.0,-0.5414898393700368,False,False,False,True,4883.0
+34,13-01-2024,58,Karina Acosta,karina.acosta2@mail.com,Rio Cuarto,27-02-2023,32,Chocolate Amargo 100g,Limpieza,5,2234.0,11170.0,0.6542433869546923,False,False,False,True,2234.0
+35,30-05-2024,61,Guadalupe Martinez,guadalupe.martinez@mail.com,Rio Cuarto,02-03-2023,93,Cepillo de Dientes,Alimentos,3,2142.0,6426.0,-0.24802453505652367,True,False,False,False,2142.0
+35,30-05-2024,61,Guadalupe Martinez,guadalupe.martinez@mail.com,Rio Cuarto,02-03-2023,80,Helado de Frutilla 1L,Limpieza,2,1981.0,3962.0,-0.716656103318673,True,False,False,False,1981.0
+35,30-05-2024,61,Guadalupe Martinez,guadalupe.martinez@mail.com,Rio Cuarto,02-03-2023,88,Caldo Concentrado Carne,Limpieza,5,2570.0,12850.0,0.9737649107697942,True,False,False,False,2570.0
+36,25-06-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,50,Azúcar 1kg,Limpieza,4,727.0,2908.0,-0.9171178212360047,False,False,True,False,727.0
+36,25-06-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,48,Porotos Negros 500g,Limpieza,2,4462.0,8924.0,0.22707354023521698,False,False,True,False,4462.0
+37,17-05-2024,57,Julian Acosta,julian.acosta@mail.com,Rio Cuarto,26-02-2023,18,Queso Rallado 150g,Limpieza,3,3444.0,10332.0,0.494863007813588,False,True,False,False,3444.0
+38,29-05-2024,56,Bruno Diaz,bruno.diaz@mail.com,Rio Cuarto,25-02-2023,62,Stevia 100 sobres,Limpieza,5,3848.0,19240.0,2.1890878495665205,False,False,True,False,3848.0
+38,29-05-2024,56,Bruno Diaz,bruno.diaz@mail.com,Rio Cuarto,25-02-2023,14,Leche Entera 1L,Limpieza,3,1723.0,5169.0,-0.4870951037681802,False,False,True,False,1723.0
+38,29-05-2024,56,Bruno Diaz,bruno.diaz@mail.com,Rio Cuarto,25-02-2023,65,Cerveza Rubia 1L,Alimentos,5,2423.0,12115.0,0.8339742441006871,False,False,True,False,2423.0
+38,29-05-2024,56,Bruno Diaz,bruno.diaz@mail.com,Rio Cuarto,25-02-2023,5,Agua Mineral 500ml,Alimentos,3,4777.0,14331.0,1.2554383493234642,False,False,True,False,4777.0
+39,05-03-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,44,Arroz Largo Fino 1kg,Limpieza,4,2979.0,11916.0,0.7961261588392554,True,False,False,False,2979.0
+39,05-03-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,22,Medialunas de Manteca,Limpieza,2,2069.0,4138.0,-0.6831824198713766,True,False,False,False,2069.0
+39,05-03-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,58,Caramelos Masticables,Limpieza,4,4752.0,19008.0,2.144963448658721,True,False,False,False,4752.0
+39,05-03-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,81,Aceitunas Verdes 200g,Alimentos,4,2520.0,10080.0,0.44693477924132274,True,False,False,False,2520.0
+40,13-05-2024,15,Tomas Ruiz,tomas.ruiz@mail.com,Cordoba,15-01-2023,44,Arroz Largo Fino 1kg,Limpieza,2,2979.0,5958.0,-0.3370341024050163,True,False,False,False,2979.0
+41,08-03-2024,29,Diego Fernandez,diego.fernandez@mail.com,Alta Gracia,29-01-2023,51,Sal Fina 500g,Alimentos,1,1745.0,1745.0,-1.1383103999246733,False,False,True,False,1745.0
+41,08-03-2024,29,Diego Fernandez,diego.fernandez@mail.com,Alta Gracia,29-01-2023,15,Leche Descremada 1L,Alimentos,1,2538.0,2538.0,-0.9874886330286164,False,False,True,False,2538.0
+42,18-04-2024,12,Gael Gomez,gael.gomez@mail.com,Alta Gracia,12-01-2023,47,Garbanzos 500g,Alimentos,3,2939.0,8817.0,0.20672306223032658,False,False,True,False,2939.0
+42,18-04-2024,12,Gael Gomez,gael.gomez@mail.com,Alta Gracia,12-01-2023,29,Papas Fritas Onduladas 100g,Alimentos,1,1868.0,1868.0,-1.1149168597882106,False,False,True,False,1868.0
+42,18-04-2024,12,Gael Gomez,gael.gomez@mail.com,Alta Gracia,12-01-2023,73,Gin 700ml,Alimentos,3,1561.0,4683.0,-0.5795281160146918,False,False,True,False,1561.0
+43,18-02-2024,23,Helena Fernandez,helena.fernandez@mail.com,Rio Cuarto,23-01-2023,1,Coca Cola 1.5L,Alimentos,5,2347.0,11735.0,0.7617015184758427,True,False,False,False,2347.0
+43,18-02-2024,23,Helena Fernandez,helena.fernandez@mail.com,Rio Cuarto,23-01-2023,49,Harina de Trigo 1kg,Alimentos,2,2512.0,5024.0,-0.5146728543355551,True,False,False,False,2512.0
+43,18-02-2024,23,Helena Fernandez,helena.fernandez@mail.com,Rio Cuarto,23-01-2023,66,Cerveza Negra 1L,Limpieza,2,1533.0,3066.0,-0.8870675826867273,True,False,False,False,1533.0
+44,21-02-2024,21,Elena Rodriguez,elena.rodriguez@mail.com,Alta Gracia,21-01-2023,48,Porotos Negros 500g,Limpieza,1,4462.0,4462.0,-0.6215604117070356,True,False,False,False,4462.0
+44,21-02-2024,21,Elena Rodriguez,elena.rodriguez@mail.com,Alta Gracia,21-01-2023,47,Garbanzos 500g,Alimentos,2,2939.0,5878.0,-0.3522494130628783,True,False,False,False,2939.0
+44,21-02-2024,21,Elena Rodriguez,elena.rodriguez@mail.com,Alta Gracia,21-01-2023,100,Trapo de Piso,Limpieza,2,4854.0,9708.0,0.3761835846822645,True,False,False,False,4854.0
+45,19-01-2024,15,Tomas Ruiz,tomas.ruiz@mail.com,Cordoba,15-01-2023,12,Té Negro 20 saquitos,Limpieza,2,570.0,1140.0,-1.2533761867747546,True,False,False,False,570.0
+45,19-01-2024,15,Tomas Ruiz,tomas.ruiz@mail.com,Cordoba,15-01-2023,18,Queso Rallado 150g,Limpieza,2,3444.0,6888.0,-0.16015611600737067,True,False,False,False,3444.0
+45,19-01-2024,15,Tomas Ruiz,tomas.ruiz@mail.com,Cordoba,15-01-2023,87,Sopa Instantánea Pollo,Alimentos,4,1679.0,6716.0,-0.19286903392177396,True,False,False,False,1679.0
+45,19-01-2024,15,Tomas Ruiz,tomas.ruiz@mail.com,Cordoba,15-01-2023,98,Desengrasante 500ml,Limpieza,1,2843.0,2843.0,-0.9294802611455175,True,False,False,False,2843.0
+45,19-01-2024,15,Tomas Ruiz,tomas.ruiz@mail.com,Cordoba,15-01-2023,52,Detergente Líquido 750ml,Limpieza,2,2582.0,5164.0,-0.48804606068429657,True,False,False,False,2582.0
+46,25-03-2024,46,Agustina Martinez,agustina.martinez@mail.com,Alta Gracia,15-02-2023,21,Pan Lactal Integral,Alimentos,1,272.0,272.0,-1.4184623074125573,False,False,True,False,272.0
+47,04-05-2024,52,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,21-02-2023,43,Salsa de Tomate 500g,Alimentos,5,887.0,4435.0,-0.6266955790540639,False,False,False,True,887.0
+47,04-05-2024,52,Diego Diaz,diego.diaz@mail.com,Rio Cuarto,21-02-2023,6,Jugo de Naranja 1L,Limpieza,3,4170.0,12510.0,0.9090998404738807,False,False,False,True,4170.0
+48,26-01-2024,84,Pablo Sanchez,pablo.sanchez@mail.com,Cordoba,25-03-2023,70,Fernet 750ml,Limpieza,1,4061.0,4061.0,-0.6978271563795687,False,True,False,False,4061.0
+48,26-01-2024,84,Pablo Sanchez,pablo.sanchez@mail.com,Cordoba,25-03-2023,54,Jabón de Tocador,Limpieza,5,1592.0,7960.0,0.043729046807979996,False,True,False,False,1592.0
+48,26-01-2024,84,Pablo Sanchez,pablo.sanchez@mail.com,Cordoba,25-03-2023,57,Servilletas x100,Alimentos,4,4520.0,18080.0,1.9684658450275219,False,True,False,False,4520.0
+49,02-06-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,59,Chicle Menta,Alimentos,2,3612.0,7224.0,-0.09625181124435031,True,False,False,False,3612.0
+49,02-06-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,21,Pan Lactal Integral,Alimentos,4,272.0,1088.0,-1.263266138702365,True,False,False,False,272.0
+49,02-06-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,59,Chicle Menta,Alimentos,4,3612.0,14448.0,1.2776907411605873,True,False,False,False,3612.0
+49,02-06-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,18,Queso Rallado 150g,Limpieza,3,3444.0,10332.0,0.494863007813588,True,False,False,False,3444.0
+49,02-06-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,85,Jugo en Polvo Naranja,Alimentos,3,1856.0,5568.0,-0.4112087418620935,True,False,False,False,1856.0
+50,09-01-2024,8,Bruno Castro,bruno.castro@mail.com,Carlos Paz,08-01-2023,10,Yerba Mate Intensa 1kg,Limpieza,2,4883.0,9766.0,0.38721468490921446,False,False,False,True,4883.0
+50,09-01-2024,8,Bruno Castro,bruno.castro@mail.com,Carlos Paz,08-01-2023,34,Turrón 50g,Limpieza,5,503.0,2515.0,-0.9918630348427517,False,False,False,True,503.0
+50,09-01-2024,8,Bruno Castro,bruno.castro@mail.com,Carlos Paz,08-01-2023,58,Caramelos Masticables,Limpieza,5,4752.0,23760.0,3.0487529017357233,False,False,False,True,4752.0
+50,09-01-2024,8,Bruno Castro,bruno.castro@mail.com,Carlos Paz,08-01-2023,32,Chocolate Amargo 100g,Limpieza,3,2234.0,6702.0,-0.1955317132868998,False,False,False,True,2234.0
+50,09-01-2024,8,Bruno Castro,bruno.castro@mail.com,Carlos Paz,08-01-2023,91,Desodorante Aerosol,Alimentos,4,4690.0,18760.0,2.097795985619349,False,False,False,True,4690.0
+51,18-02-2024,39,Santiago Diaz,santiago.diaz@mail.com,Alta Gracia,08-02-2023,31,Mix de Frutos Secos 200g,Alimentos,1,3409.0,3409.0,-0.821831938241144,True,False,False,False,3409.0
+52,10-05-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,83,Queso Untable 190g,Alimentos,2,1830.0,3660.0,-0.774093901052102,False,False,True,False,1830.0
+52,10-05-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,9,Yerba Mate Suave 1kg,Alimentos,4,3878.0,15512.0,1.4800543729101518,False,False,True,False,3878.0
+52,10-05-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,81,Aceitunas Verdes 200g,Alimentos,5,2520.0,12600.0,0.9262170649639755,False,False,True,False,2520.0
+52,10-05-2024,5,Agustina Flores,agustina.flores@mail.com,Cordoba,05-01-2023,38,Mermelada de Frutilla 400g,Limpieza,3,1584.0,4752.0,-0.5664049105722858,False,False,True,False,1584.0
+53,25-01-2024,56,Bruno Diaz,bruno.diaz@mail.com,Rio Cuarto,25-02-2023,28,Papas Fritas Clásicas 100g,Limpieza,1,936.0,936.0,-1.2921752289523027,False,False,True,False,936.0
+54,26-03-2024,1,Mariana Lopez,mariana.lopez@mail.com,Carlos Paz,01-01-2023,65,Cerveza Rubia 1L,Alimentos,1,2423.0,2423.0,-1.009360642099293,False,False,True,False,2423.0
+54,26-03-2024,1,Mariana Lopez,mariana.lopez@mail.com,Carlos Paz,01-01-2023,18,Queso Rallado 150g,Limpieza,2,3444.0,6888.0,-0.16015611600737067,False,False,True,False,3444.0
+54,26-03-2024,1,Mariana Lopez,mariana.lopez@mail.com,Carlos Paz,01-01-2023,91,Desodorante Aerosol,Alimentos,3,4690.0,14070.0,1.2057983983021896,False,False,True,False,4690.0
+54,26-03-2024,1,Mariana Lopez,mariana.lopez@mail.com,Carlos Paz,01-01-2023,8,Energética Nitro 500ml,Limpieza,3,4218.0,12654.0,0.9364873996580323,False,False,True,False,4218.0
+55,04-01-2024,100,Agustina Lopez,agustina.lopez@mail.com,Cordoba,10-04-2023,39,Helado Vainilla 1L,Alimentos,4,469.0,1876.0,-1.1133953287224243,False,True,False,False,469.0
+56,14-06-2024,15,Tomas Ruiz,tomas.ruiz@mail.com,Cordoba,15-01-2023,18,Queso Rallado 150g,Limpieza,5,3444.0,17220.0,1.8049012554555053,False,True,False,False,3444.0
+57,10-01-2024,34,Bruno Castro,bruno.castro2@mail.com,Villa Maria,03-02-2023,31,Mix de Frutos Secos 200g,Alimentos,3,3409.0,10227.0,0.47489291257514415,True,False,False,False,3409.0
+57,10-01-2024,34,Bruno Castro,bruno.castro2@mail.com,Villa Maria,03-02-2023,41,Aceite de Girasol 1L,Alimentos,4,860.0,3440.0,-0.8159360053612225,True,False,False,False,860.0
+57,10-01-2024,34,Bruno Castro,bruno.castro2@mail.com,Villa Maria,03-02-2023,9,Yerba Mate Suave 1kg,Alimentos,5,3878.0,19390.0,2.217616557050012,True,False,False,False,3878.0
+57,10-01-2024,34,Bruno Castro,bruno.castro2@mail.com,Villa Maria,03-02-2023,76,Pizza Congelada Muzzarella,Limpieza,3,4286.0,12858.0,0.9752864418355803,True,False,False,False,4286.0
+57,10-01-2024,34,Bruno Castro,bruno.castro2@mail.com,Villa Maria,03-02-2023,98,Desengrasante 500ml,Limpieza,4,2843.0,11372.0,0.6926620463657939,True,False,False,False,2843.0
+58,04-02-2024,48,Rocio Alvarez,rocio.alvarez@mail.com,Cordoba,17-02-2023,43,Salsa de Tomate 500g,Alimentos,2,887.0,1774.0,-1.1327948498111984,False,False,False,True,887.0
+58,04-02-2024,48,Rocio Alvarez,rocio.alvarez@mail.com,Cordoba,17-02-2023,11,Café Molido 250g,Alimentos,1,2053.0,2053.0,-1.0797314538919047,False,False,False,True,2053.0
+59,28-04-2024,62,Guadalupe Romero,guadalupe.romero@mail.com,Carlos Paz,03-03-2023,31,Mix de Frutos Secos 200g,Alimentos,1,3409.0,3409.0,-0.821831938241144,False,False,True,False,3409.0
+59,28-04-2024,62,Guadalupe Romero,guadalupe.romero@mail.com,Carlos Paz,03-03-2023,8,Energética Nitro 500ml,Limpieza,2,4218.0,8436.0,0.13426014522225885,False,False,True,False,4218.0
+59,28-04-2024,62,Guadalupe Romero,guadalupe.romero@mail.com,Carlos Paz,03-03-2023,97,Limpiavidrios 500ml,Alimentos,5,872.0,4360.0,-0.6409599327958095,False,False,True,False,872.0
+60,04-04-2024,81,Camila Ruiz,camila.ruiz@mail.com,Carlos Paz,22-03-2023,43,Salsa de Tomate 500g,Alimentos,1,887.0,887.0,-1.3014946067302433,False,False,False,True,887.0
+60,04-04-2024,81,Camila Ruiz,camila.ruiz@mail.com,Carlos Paz,22-03-2023,98,Desengrasante 500ml,Limpieza,3,2843.0,8529.0,0.1519479438620234,False,False,False,True,2843.0
+60,04-04-2024,81,Camila Ruiz,camila.ruiz@mail.com,Carlos Paz,22-03-2023,15,Leche Descremada 1L,Alimentos,1,2538.0,2538.0,-0.9874886330286164,False,False,False,True,2538.0
+60,04-04-2024,81,Camila Ruiz,camila.ruiz@mail.com,Carlos Paz,22-03-2023,21,Pan Lactal Integral,Alimentos,2,272.0,544.0,-1.3667302511758266,False,False,False,True,272.0
+60,04-04-2024,81,Camila Ruiz,camila.ruiz@mail.com,Carlos Paz,22-03-2023,91,Desodorante Aerosol,Alimentos,4,4690.0,18760.0,2.097795985619349,False,False,False,True,4690.0
+61,01-06-2024,27,Tomas Castro,tomas.castro@mail.com,Rio Cuarto,27-01-2023,9,Yerba Mate Suave 1kg,Alimentos,3,3878.0,11634.0,0.7424921887702919,True,False,False,False,3878.0
+61,01-06-2024,27,Tomas Castro,tomas.castro@mail.com,Rio Cuarto,27-01-2023,19,Manteca 200g,Alimentos,3,3251.0,9753.0,0.3847421969273119,True,False,False,False,3251.0
+62,01-05-2024,100,Agustina Lopez,agustina.lopez@mail.com,Cordoba,10-04-2023,47,Garbanzos 500g,Alimentos,4,2939.0,11756.0,0.7656955375235315,False,False,False,True,2939.0
+62,01-05-2024,100,Agustina Lopez,agustina.lopez@mail.com,Cordoba,10-04-2023,95,Mascarilla Capilar,Alimentos,3,1581.0,4743.0,-0.5681166330212953,False,False,False,True,1581.0
+63,19-06-2024,25,Karina Castro,karina.castro@mail.com,Rio Cuarto,25-01-2023,8,Energética Nitro 500ml,Limpieza,5,4218.0,21090.0,2.5409419085295792,False,False,True,False,4218.0
+63,19-06-2024,25,Karina Castro,karina.castro@mail.com,Rio Cuarto,25-01-2023,2,Pepsi 1.5L,Limpieza,2,4973.0,9946.0,0.4214491338894039,False,False,True,False,4973.0
+63,19-06-2024,25,Karina Castro,karina.castro@mail.com,Rio Cuarto,25-01-2023,70,Fernet 750ml,Limpieza,3,4061.0,12183.0,0.8469072581598698,False,False,True,False,4061.0
+63,19-06-2024,25,Karina Castro,karina.castro@mail.com,Rio Cuarto,25-01-2023,45,Fideos Spaghetti 500g,Alimentos,4,745.0,2980.0,-0.9034240416439289,False,False,True,False,745.0
+64,07-03-2024,58,Karina Acosta,karina.acosta2@mail.com,Rio Cuarto,27-02-2023,4,Fanta Naranja 1.5L,Limpieza,2,2033.0,4066.0,-0.6968761994634524,False,True,False,False,2033.0
+64,07-03-2024,58,Karina Acosta,karina.acosta2@mail.com,Rio Cuarto,27-02-2023,41,Aceite de Girasol 1L,Alimentos,2,860.0,1720.0,-1.1430651845052553,False,True,False,False,860.0
+65,30-04-2024,30,Ivana Medina,ivana.medina@mail.com,Alta Gracia,30-01-2023,77,Empanadas Congeladas,Alimentos,4,4778.0,19112.0,2.1647433525139417,False,True,False,False,4778.0
+65,30-04-2024,30,Ivana Medina,ivana.medina@mail.com,Alta Gracia,30-01-2023,22,Medialunas de Manteca,Limpieza,3,2069.0,6207.0,-0.28967644798242087,False,True,False,False,2069.0
+65,30-04-2024,30,Ivana Medina,ivana.medina@mail.com,Alta Gracia,30-01-2023,38,Mermelada de Frutilla 400g,Limpieza,5,1584.0,7920.0,0.036121391479049,False,True,False,False,1584.0
+65,30-04-2024,30,Ivana Medina,ivana.medina@mail.com,Alta Gracia,30-01-2023,36,Dulce de Leche 400g,Limpieza,4,2559.0,10236.0,0.4766046350241536,False,True,False,False,2559.0
+66,14-03-2024,69,Felipe Flores,felipe.flores@mail.com,Rio Cuarto,10-03-2023,16,Yogur Natural 200g,Limpieza,3,4613.0,13839.0,1.161864188777613,False,True,False,False,4613.0
+67,21-03-2024,66,Tomas Herrera,tomas.herrera@mail.com,Villa Maria,07-03-2023,53,Lavandina 1L,Alimentos,1,1664.0,1664.0,-1.1537159019657586,True,False,False,False,1664.0
+67,21-03-2024,66,Tomas Herrera,tomas.herrera@mail.com,Villa Maria,07-03-2023,8,Energética Nitro 500ml,Limpieza,2,4218.0,8436.0,0.13426014522225885,True,False,False,False,4218.0
+68,28-06-2024,27,Tomas Castro,tomas.castro@mail.com,Rio Cuarto,27-01-2023,94,Hilo Dental,Limpieza,4,1418.0,5672.0,-0.39142883800687295,False,True,False,False,1418.0
+69,06-01-2024,42,Tomas Flores,tomas.flores@mail.com,Alta Gracia,11-02-2023,76,Pizza Congelada Muzzarella,Limpieza,4,4286.0,17144.0,1.7904467103305366,False,True,False,False,4286.0
+69,06-01-2024,42,Tomas Flores,tomas.flores@mail.com,Alta Gracia,11-02-2023,74,Whisky 750ml,Limpieza,3,2953.0,8859.0,0.21471110032570412,False,True,False,False,2953.0
+70,02-02-2024,41,Elena Rodriguez,elena.rodriguez2@mail.com,Alta Gracia,10-02-2023,66,Cerveza Negra 1L,Limpieza,3,1533.0,4599.0,-0.5955041922054469,False,False,False,True,1533.0
+70,02-02-2024,41,Elena Rodriguez,elena.rodriguez2@mail.com,Alta Gracia,10-02-2023,89,Caldo Concentrado Verdura,Alimentos,4,1003.0,4012.0,-0.7071465341575093,False,False,False,True,1003.0
+70,02-02-2024,41,Elena Rodriguez,elena.rodriguez2@mail.com,Alta Gracia,10-02-2023,38,Mermelada de Frutilla 400g,Limpieza,3,1584.0,4752.0,-0.5664049105722858,False,False,False,True,1584.0
+71,02-06-2024,40,Felipe Diaz,felipe.diaz@mail.com,Rio Cuarto,09-02-2023,11,Café Molido 250g,Alimentos,3,2053.0,6159.0,-0.2988056343771381,False,True,False,False,2053.0
+71,02-06-2024,40,Felipe Diaz,felipe.diaz@mail.com,Rio Cuarto,09-02-2023,79,Hamburguesas Congeladas x4,Alimentos,4,2420.0,9680.0,0.3708582259520128,False,True,False,False,2420.0
+71,02-06-2024,40,Felipe Diaz,felipe.diaz@mail.com,Rio Cuarto,09-02-2023,100,Trapo de Piso,Limpieza,4,4854.0,19416.0,2.222561533013817,False,True,False,False,4854.0
+71,02-06-2024,40,Felipe Diaz,felipe.diaz@mail.com,Rio Cuarto,09-02-2023,92,Crema Dental 90g,Limpieza,1,2512.0,2512.0,-0.9924336089924215,False,True,False,False,2512.0
+72,17-02-2024,26,Camila Sanchez,camila.sanchez@mail.com,Alta Gracia,26-01-2023,94,Hilo Dental,Limpieza,3,1418.0,4254.0,-0.6611202194174767,False,True,False,False,1418.0
+72,17-02-2024,26,Camila Sanchez,camila.sanchez@mail.com,Alta Gracia,26-01-2023,41,Aceite de Girasol 1L,Alimentos,4,860.0,3440.0,-0.8159360053612225,False,True,False,False,860.0
+72,17-02-2024,26,Camila Sanchez,camila.sanchez@mail.com,Alta Gracia,26-01-2023,51,Sal Fina 500g,Alimentos,2,1745.0,3490.0,-0.8064264362000587,False,True,False,False,1745.0
+73,16-05-2024,42,Tomas Flores,tomas.flores@mail.com,Alta Gracia,11-02-2023,28,Papas Fritas Clásicas 100g,Limpieza,1,936.0,936.0,-1.2921752289523027,False,False,False,True,936.0
+73,16-05-2024,42,Tomas Flores,tomas.flores@mail.com,Alta Gracia,11-02-2023,24,Galletitas Chocolate,Limpieza,3,1305.0,3915.0,-0.7255950983301669,False,False,False,True,1305.0
+73,16-05-2024,42,Tomas Flores,tomas.flores@mail.com,Alta Gracia,11-02-2023,19,Manteca 200g,Alimentos,1,3251.0,3251.0,-0.8518821767904214,False,False,False,True,3251.0
+74,26-04-2024,56,Bruno Diaz,bruno.diaz@mail.com,Rio Cuarto,25-02-2023,32,Chocolate Amargo 100g,Limpieza,3,2234.0,6702.0,-0.1955317132868998,True,False,False,False,2234.0
+74,26-04-2024,56,Bruno Diaz,bruno.diaz@mail.com,Rio Cuarto,25-02-2023,14,Leche Entera 1L,Limpieza,2,1723.0,3446.0,-0.8147948570618828,True,False,False,False,1723.0
+74,26-04-2024,56,Bruno Diaz,bruno.diaz@mail.com,Rio Cuarto,25-02-2023,55,Shampoo 400ml,Alimentos,2,1407.0,2814.0,-0.9349958112589926,True,False,False,False,1407.0
+75,23-05-2024,61,Guadalupe Martinez,guadalupe.martinez@mail.com,Rio Cuarto,02-03-2023,3,Sprite 1.5L,Alimentos,4,4964.0,19856.0,2.306245741632058,False,True,False,False,4964.0
+75,23-05-2024,61,Guadalupe Martinez,guadalupe.martinez@mail.com,Rio Cuarto,02-03-2023,2,Pepsi 1.5L,Limpieza,5,4973.0,24865.0,3.258914380197442,False,True,False,False,4973.0
+76,15-05-2024,75,Santiago Castro,santiago.castro@mail.com,Rio Cuarto,16-03-2023,22,Medialunas de Manteca,Limpieza,4,2069.0,8276.0,0.10382952390653485,False,False,True,False,2069.0
+76,15-05-2024,75,Santiago Castro,santiago.castro@mail.com,Rio Cuarto,16-03-2023,23,Bizcochos Salados,Alimentos,4,2380.0,9520.0,0.3404276046362888,False,False,True,False,2380.0
+76,15-05-2024,75,Santiago Castro,santiago.castro@mail.com,Rio Cuarto,16-03-2023,24,Galletitas Chocolate,Limpieza,1,1305.0,1305.0,-1.2219946085429143,False,False,True,False,1305.0
+76,15-05-2024,75,Santiago Castro,santiago.castro@mail.com,Rio Cuarto,16-03-2023,11,Café Molido 250g,Alimentos,2,2053.0,4106.0,-0.6892685441345214,False,False,True,False,2053.0
+77,26-05-2024,55,Olivia Ruiz,olivia.ruiz@mail.com,Mendiolaza,24-02-2023,53,Lavandina 1L,Alimentos,2,1664.0,3328.0,-0.8372374402822292,False,False,True,False,1664.0
+77,26-05-2024,55,Olivia Ruiz,olivia.ruiz@mail.com,Mendiolaza,24-02-2023,41,Aceite de Girasol 1L,Alimentos,1,860.0,860.0,-1.3066297740772717,False,False,True,False,860.0
+77,26-05-2024,55,Olivia Ruiz,olivia.ruiz@mail.com,Mendiolaza,24-02-2023,34,Turrón 50g,Limpieza,5,503.0,2515.0,-0.9918630348427517,False,False,True,False,503.0
+77,26-05-2024,55,Olivia Ruiz,olivia.ruiz@mail.com,Mendiolaza,24-02-2023,98,Desengrasante 500ml,Limpieza,2,2843.0,5686.0,-0.3887661586417471,False,False,True,False,2843.0
+77,26-05-2024,55,Olivia Ruiz,olivia.ruiz@mail.com,Mendiolaza,24-02-2023,39,Helado Vainilla 1L,Alimentos,2,469.0,938.0,-1.2917948461858562,False,False,True,False,469.0
+78,29-04-2024,12,Gael Gomez,gael.gomez@mail.com,Alta Gracia,12-01-2023,37,Mermelada de Durazno 400g,Alimentos,3,3196.0,9588.0,0.35336061869547153,False,True,False,False,3196.0
+78,29-04-2024,12,Gael Gomez,gael.gomez@mail.com,Alta Gracia,12-01-2023,79,Hamburguesas Congeladas x4,Alimentos,5,2420.0,12100.0,0.831121373352338,False,True,False,False,2420.0
+78,29-04-2024,12,Gael Gomez,gael.gomez@mail.com,Alta Gracia,12-01-2023,17,Queso Cremoso 500g,Alimentos,2,4834.0,9668.0,0.3685759293533335,False,True,False,False,4834.0
+78,29-04-2024,12,Gael Gomez,gael.gomez@mail.com,Alta Gracia,12-01-2023,85,Jugo en Polvo Naranja,Alimentos,1,1856.0,1856.0,-1.11719915638689,False,True,False,False,1856.0
+78,29-04-2024,12,Gael Gomez,gael.gomez@mail.com,Alta Gracia,12-01-2023,39,Helado Vainilla 1L,Alimentos,2,469.0,938.0,-1.2917948461858562,False,True,False,False,469.0
+79,06-06-2024,57,Julian Acosta,julian.acosta@mail.com,Rio Cuarto,26-02-2023,81,Aceitunas Verdes 200g,Alimentos,2,2520.0,5040.0,-0.5116297922039826,False,True,False,False,2520.0
+79,06-06-2024,57,Julian Acosta,julian.acosta@mail.com,Rio Cuarto,26-02-2023,56,Papel Higiénico x4,Limpieza,2,2532.0,5064.0,-0.5070651990066241,False,True,False,False,2532.0
+80,25-03-2024,54,Uma Herrera,uma.herrera@mail.com,Alta Gracia,23-02-2023,39,Helado Vainilla 1L,Alimentos,5,469.0,2345.0,-1.0241955699907084,True,False,False,False,469.0
+80,25-03-2024,54,Uma Herrera,uma.herrera@mail.com,Alta Gracia,23-02-2023,30,Maní Salado 200g,Limpieza,3,4875.0,14625.0,1.3113546159911071,True,False,False,False,4875.0
+80,25-03-2024,54,Uma Herrera,uma.herrera@mail.com,Alta Gracia,23-02-2023,41,Aceite de Girasol 1L,Alimentos,5,860.0,4300.0,-0.6523714157892061,True,False,False,False,860.0
+81,09-03-2024,49,Olivia Gomez,olivia.gomez@mail.com,Rio Cuarto,18-02-2023,10,Yerba Mate Intensa 1kg,Limpieza,2,4883.0,9766.0,0.38721468490921446,False,False,False,True,4883.0
+82,25-01-2024,19,Uma Silva,uma.silva@mail.com,Mendiolaza,19-01-2023,38,Mermelada de Frutilla 400g,Limpieza,1,1584.0,1584.0,-1.1689312126236207,False,False,True,False,1584.0
+82,25-01-2024,19,Uma Silva,uma.silva@mail.com,Mendiolaza,19-01-2023,28,Papas Fritas Clásicas 100g,Limpieza,2,936.0,1872.0,-1.1141560942553175,False,False,True,False,936.0
+82,25-01-2024,19,Uma Silva,uma.silva@mail.com,Mendiolaza,19-01-2023,29,Papas Fritas Onduladas 100g,Alimentos,5,1868.0,9340.0,0.30619315565609934,False,False,True,False,1868.0
+82,25-01-2024,19,Uma Silva,uma.silva@mail.com,Mendiolaza,19-01-2023,82,Aceitunas Negras 200g,Limpieza,2,2394.0,4788.0,-0.5595580207762479,False,False,True,False,2394.0
+83,28-05-2024,91,Uma Sanchez,uma.sanchez@mail.com,Mendiolaza,01-04-2023,5,Agua Mineral 500ml,Alimentos,2,4777.0,9554.0,0.34689411166588013,True,False,False,False,4777.0
+83,28-05-2024,91,Uma Sanchez,uma.sanchez@mail.com,Mendiolaza,01-04-2023,26,Alfajor Triple,Limpieza,2,1001.0,2002.0,-1.0894312144362917,True,False,False,False,1001.0
+83,28-05-2024,91,Uma Sanchez,uma.sanchez@mail.com,Mendiolaza,01-04-2023,73,Gin 700ml,Alimentos,5,1561.0,7805.0,0.01424938240837239,True,False,False,False,1561.0
+83,28-05-2024,91,Uma Sanchez,uma.sanchez@mail.com,Mendiolaza,01-04-2023,51,Sal Fina 500g,Alimentos,2,1745.0,3490.0,-0.8064264362000587,True,False,False,False,1745.0
+84,02-01-2024,72,Camila Rodriguez,camila.rodriguez@mail.com,Cordoba,13-03-2023,83,Queso Untable 190g,Alimentos,5,1830.0,9150.0,0.2700567928436771,True,False,False,False,1830.0
+84,02-01-2024,72,Camila Rodriguez,camila.rodriguez@mail.com,Cordoba,13-03-2023,76,Pizza Congelada Muzzarella,Limpieza,4,4286.0,17144.0,1.7904467103305366,True,False,False,False,4286.0
+85,23-01-2024,42,Tomas Flores,tomas.flores@mail.com,Alta Gracia,11-02-2023,32,Chocolate Amargo 100g,Limpieza,4,2234.0,8936.0,0.2293558368338963,False,False,False,True,2234.0
+85,23-01-2024,42,Tomas Flores,tomas.flores@mail.com,Alta Gracia,11-02-2023,80,Helado de Frutilla 1L,Limpieza,2,1981.0,3962.0,-0.716656103318673,False,False,False,True,1981.0
+86,10-01-2024,40,Felipe Diaz,felipe.diaz@mail.com,Rio Cuarto,09-02-2023,66,Cerveza Negra 1L,Limpieza,2,1533.0,3066.0,-0.8870675826867273,True,False,False,False,1533.0
+86,10-01-2024,40,Felipe Diaz,felipe.diaz@mail.com,Rio Cuarto,09-02-2023,1,Coca Cola 1.5L,Alimentos,4,2347.0,9388.0,0.31532234205081655,True,False,False,False,2347.0
+86,10-01-2024,40,Felipe Diaz,felipe.diaz@mail.com,Rio Cuarto,09-02-2023,13,Té Verde 20 saquitos,Alimentos,5,2383.0,11915.0,0.7959359674560321,True,False,False,False,2383.0
+86,10-01-2024,40,Felipe Diaz,felipe.diaz@mail.com,Rio Cuarto,09-02-2023,41,Aceite de Girasol 1L,Alimentos,3,860.0,2580.0,-0.9795005949332388,True,False,False,False,860.0
+87,20-04-2024,100,Agustina Lopez,agustina.lopez@mail.com,Cordoba,10-04-2023,53,Lavandina 1L,Alimentos,2,1664.0,3328.0,-0.8372374402822292,False,True,False,False,1664.0
+87,20-04-2024,100,Agustina Lopez,agustina.lopez@mail.com,Cordoba,10-04-2023,86,Jugo en Polvo Limón,Limpieza,2,4090.0,8180.0,0.08557115111710047,False,True,False,False,4090.0
+88,21-06-2024,37,Martina Perez,martina.perez@mail.com,Mendiolaza,06-02-2023,7,Jugo de Manzana 1L,Alimentos,5,3269.0,16345.0,1.6384837951351399,True,False,False,False,3269.0
+88,21-06-2024,37,Martina Perez,martina.perez@mail.com,Mendiolaza,06-02-2023,53,Lavandina 1L,Alimentos,5,1664.0,8320.0,0.11219794476835895,True,False,False,False,1664.0
+88,21-06-2024,37,Martina Perez,martina.perez@mail.com,Mendiolaza,06-02-2023,8,Energética Nitro 500ml,Limpieza,4,4218.0,16872.0,1.7387146540938057,True,False,False,False,4218.0
+89,18-01-2024,17,Pablo Gomez,pablo.gomez@mail.com,Villa Maria,17-01-2023,72,Ron 700ml,Limpieza,2,3876.0,7752.0,0.004169239097538821,False,False,True,False,3876.0
+90,08-01-2024,46,Agustina Martinez,agustina.martinez@mail.com,Alta Gracia,15-02-2023,79,Hamburguesas Congeladas x4,Alimentos,4,2420.0,9680.0,0.3708582259520128,False,True,False,False,2420.0
+90,08-01-2024,46,Agustina Martinez,agustina.martinez@mail.com,Alta Gracia,15-02-2023,6,Jugo de Naranja 1L,Limpieza,2,4170.0,8340.0,0.11600177243282445,False,True,False,False,4170.0
+91,19-02-2024,39,Santiago Diaz,santiago.diaz@mail.com,Alta Gracia,08-02-2023,57,Servilletas x100,Alimentos,3,4520.0,13560.0,1.1088007928583192,True,False,False,False,4520.0
+92,09-02-2024,42,Tomas Flores,tomas.flores@mail.com,Alta Gracia,11-02-2023,10,Yerba Mate Intensa 1kg,Limpieza,2,4883.0,9766.0,0.38721468490921446,False,False,False,True,4883.0
+92,09-02-2024,42,Tomas Flores,tomas.flores@mail.com,Alta Gracia,11-02-2023,43,Salsa de Tomate 500g,Alimentos,4,887.0,3548.0,-0.7953953359731087,False,False,False,True,887.0
+93,29-01-2024,90,Guadalupe Ruiz,guadalupe.ruiz@mail.com,Rio Cuarto,31-03-2023,80,Helado de Frutilla 1L,Limpieza,4,1981.0,7924.0,0.0368821570119421,True,False,False,False,1981.0
+93,29-01-2024,90,Guadalupe Ruiz,guadalupe.ruiz@mail.com,Rio Cuarto,31-03-2023,66,Cerveza Negra 1L,Limpieza,3,1533.0,4599.0,-0.5955041922054469,True,False,False,False,1533.0
+93,29-01-2024,90,Guadalupe Ruiz,guadalupe.ruiz@mail.com,Rio Cuarto,31-03-2023,91,Desodorante Aerosol,Alimentos,3,4690.0,14070.0,1.2057983983021896,True,False,False,False,4690.0
+94,06-03-2024,41,Elena Rodriguez,elena.rodriguez2@mail.com,Alta Gracia,10-02-2023,24,Galletitas Chocolate,Limpieza,1,1305.0,1305.0,-1.2219946085429143,False,True,False,False,1305.0
+94,06-03-2024,41,Elena Rodriguez,elena.rodriguez2@mail.com,Alta Gracia,10-02-2023,86,Jugo en Polvo Limón,Limpieza,5,4090.0,20450.0,2.419219423266683,False,True,False,False,4090.0
+94,06-03-2024,41,Elena Rodriguez,elena.rodriguez2@mail.com,Alta Gracia,10-02-2023,98,Desengrasante 500ml,Limpieza,2,2843.0,5686.0,-0.3887661586417471,False,True,False,False,2843.0
+95,25-02-2024,26,Camila Sanchez,camila.sanchez@mail.com,Alta Gracia,26-01-2023,72,Ron 700ml,Limpieza,5,3876.0,19380.0,2.2157146432177792,False,True,False,False,3876.0
+95,25-02-2024,26,Camila Sanchez,camila.sanchez@mail.com,Alta Gracia,26-01-2023,12,Té Negro 20 saquitos,Limpieza,1,570.0,570.0,-1.3617852752120214,False,True,False,False,570.0
+96,23-02-2024,83,Franco Gomez,franco.gomez@mail.com,Rio Cuarto,24-03-2023,81,Aceitunas Verdes 200g,Alimentos,3,2520.0,7560.0,-0.03234750648132995,False,False,True,False,2520.0
+96,23-02-2024,83,Franco Gomez,franco.gomez@mail.com,Rio Cuarto,24-03-2023,68,Vino Blanco 750ml,Limpieza,1,2684.0,2684.0,-0.9597206910780183,False,False,True,False,2684.0
+96,23-02-2024,83,Franco Gomez,franco.gomez@mail.com,Rio Cuarto,24-03-2023,11,Café Molido 250g,Alimentos,2,2053.0,4106.0,-0.6892685441345214,False,False,True,False,2053.0
+96,23-02-2024,83,Franco Gomez,franco.gomez@mail.com,Rio Cuarto,24-03-2023,50,Azúcar 1kg,Limpieza,3,727.0,2181.0,-1.0553869568393255,False,False,True,False,727.0
+97,16-06-2024,39,Santiago Diaz,santiago.diaz@mail.com,Alta Gracia,08-02-2023,59,Chicle Menta,Alimentos,5,3612.0,18060.0,1.9646620173630562,True,False,False,False,3612.0
+97,16-06-2024,39,Santiago Diaz,santiago.diaz@mail.com,Alta Gracia,08-02-2023,36,Dulce de Leche 400g,Limpieza,1,2559.0,2559.0,-0.9834946139809276,True,False,False,False,2559.0
+97,16-06-2024,39,Santiago Diaz,santiago.diaz@mail.com,Alta Gracia,08-02-2023,4,Fanta Naranja 1.5L,Limpieza,3,2033.0,6099.0,-0.31021711737053453,True,False,False,False,2033.0
+98,12-01-2024,43,Lucas Perez,lucas.perez@mail.com,Mendiolaza,12-02-2023,28,Papas Fritas Clásicas 100g,Limpieza,4,936.0,3744.0,-0.7581178248613469,False,False,False,True,936.0
+98,12-01-2024,43,Lucas Perez,lucas.perez@mail.com,Mendiolaza,12-02-2023,61,Miel Pura 250g,Alimentos,1,4982.0,4982.0,-0.5226608924309326,False,False,False,True,4982.0
+98,12-01-2024,43,Lucas Perez,lucas.perez@mail.com,Mendiolaza,12-02-2023,29,Papas Fritas Onduladas 100g,Alimentos,1,1868.0,1868.0,-1.1149168597882106,False,False,False,True,1868.0
+98,12-01-2024,43,Lucas Perez,lucas.perez@mail.com,Mendiolaza,12-02-2023,83,Queso Untable 190g,Alimentos,3,1830.0,5490.0,-0.42604366975350894,False,False,False,True,1830.0
+99,13-03-2024,51,Agustina Gomez,agustina.gomez@mail.com,Rio Cuarto,20-02-2023,40,Helado Chocolate 1L,Limpieza,5,1215.0,6075.0,-0.31478171056789317,False,False,False,True,1215.0
+100,08-06-2024,69,Felipe Flores,felipe.flores@mail.com,Rio Cuarto,10-03-2023,13,Té Verde 20 saquitos,Alimentos,3,2383.0,7149.0,-0.11051616498609593,False,True,False,False,2383.0
+100,08-06-2024,69,Felipe Flores,felipe.flores@mail.com,Rio Cuarto,10-03-2023,18,Queso Rallado 150g,Limpieza,4,3444.0,13776.0,1.1498821316345467,False,True,False,False,3444.0
+100,08-06-2024,69,Felipe Flores,felipe.flores@mail.com,Rio Cuarto,10-03-2023,58,Caramelos Masticables,Limpieza,2,4752.0,9504.0,0.3373845425047164,False,True,False,False,4752.0
+100,08-06-2024,69,Felipe Flores,felipe.flores@mail.com,Rio Cuarto,10-03-2023,57,Servilletas x100,Alimentos,1,4520.0,4520.0,-0.6105293114800856,False,True,False,False,4520.0
+100,08-06-2024,69,Felipe Flores,felipe.flores@mail.com,Rio Cuarto,10-03-2023,9,Yerba Mate Suave 1kg,Alimentos,4,3878.0,15512.0,1.4800543729101518,False,True,False,False,3878.0
+101,28-03-2024,72,Camila Rodriguez,camila.rodriguez@mail.com,Cordoba,13-03-2023,34,Turrón 50g,Limpieza,4,503.0,2012.0,-1.087529300604059,True,False,False,False,503.0
+102,29-03-2024,18,Ivana Torres,ivana.torres@mail.com,Carlos Paz,18-01-2023,78,Verduras Congeladas Mix,Limpieza,3,4289.0,12867.0,0.9769981642845899,True,False,False,False,4289.0
+102,29-03-2024,18,Ivana Torres,ivana.torres@mail.com,Carlos Paz,18-01-2023,36,Dulce de Leche 400g,Limpieza,3,2559.0,7677.0,-0.010095114644206794,True,False,False,False,2559.0
+103,11-03-2024,39,Santiago Diaz,santiago.diaz@mail.com,Alta Gracia,08-02-2023,79,Hamburguesas Congeladas x4,Alimentos,5,2420.0,12100.0,0.831121373352338,True,False,False,False,2420.0
+103,11-03-2024,39,Santiago Diaz,santiago.diaz@mail.com,Alta Gracia,08-02-2023,43,Salsa de Tomate 500g,Alimentos,5,887.0,4435.0,-0.6266955790540639,True,False,False,False,887.0
+103,11-03-2024,39,Santiago Diaz,santiago.diaz@mail.com,Alta Gracia,08-02-2023,34,Turrón 50g,Limpieza,1,503.0,503.0,-1.3745280978879808,True,False,False,False,503.0
+103,11-03-2024,39,Santiago Diaz,santiago.diaz@mail.com,Alta Gracia,08-02-2023,70,Fernet 750ml,Limpieza,1,4061.0,4061.0,-0.6978271563795687,True,False,False,False,4061.0
+104,17-06-2024,86,Diego Torres,diego.torres@mail.com,Cordoba,27-03-2023,95,Mascarilla Capilar,Alimentos,2,1581.0,3162.0,-0.8688092098972929,False,True,False,False,1581.0
+104,17-06-2024,86,Diego Torres,diego.torres@mail.com,Cordoba,27-03-2023,68,Vino Blanco 750ml,Limpieza,3,2684.0,8052.0,0.06122665406452128,False,True,False,False,2684.0
+104,17-06-2024,86,Diego Torres,diego.torres@mail.com,Cordoba,27-03-2023,68,Vino Blanco 750ml,Limpieza,5,2684.0,13420.0,1.082173999207061,False,True,False,False,2684.0
+105,06-02-2024,1,Mariana Lopez,mariana.lopez@mail.com,Carlos Paz,01-01-2023,13,Té Verde 20 saquitos,Alimentos,2,2383.0,4766.0,-0.5637422312071599,False,False,False,True,2383.0
+105,06-02-2024,1,Mariana Lopez,mariana.lopez@mail.com,Carlos Paz,01-01-2023,4,Fanta Naranja 1.5L,Limpieza,4,2033.0,8132.0,0.07644196472238328,False,False,False,True,2033.0
+105,06-02-2024,1,Mariana Lopez,mariana.lopez@mail.com,Carlos Paz,01-01-2023,58,Caramelos Masticables,Limpieza,2,4752.0,9504.0,0.3373845425047164,False,False,False,True,4752.0
+105,06-02-2024,1,Mariana Lopez,mariana.lopez@mail.com,Carlos Paz,01-01-2023,82,Aceitunas Negras 200g,Limpieza,4,2394.0,9576.0,0.3510783220967922,False,False,False,True,2394.0
+105,06-02-2024,1,Mariana Lopez,mariana.lopez@mail.com,Carlos Paz,01-01-2023,43,Salsa de Tomate 500g,Alimentos,5,887.0,4435.0,-0.6266955790540639,False,False,False,True,887.0
+106,24-03-2024,82,Lucas Lopez,lucas.lopez@mail.com,Alta Gracia,23-03-2023,88,Caldo Concentrado Carne,Limpieza,3,2570.0,7710.0,-0.003818798997838724,False,False,False,True,2570.0
+107,21-05-2024,14,Gael Martinez,gael.martinez@mail.com,Carlos Paz,14-01-2023,7,Jugo de Manzana 1L,Alimentos,4,3269.0,13076.0,1.0167481633782542,True,False,False,False,3269.0
+107,21-05-2024,14,Gael Martinez,gael.martinez@mail.com,Carlos Paz,14-01-2023,11,Café Molido 250g,Alimentos,2,2053.0,4106.0,-0.6892685441345214,True,False,False,False,2053.0
+107,21-05-2024,14,Gael Martinez,gael.martinez@mail.com,Carlos Paz,14-01-2023,12,Té Negro 20 saquitos,Limpieza,4,570.0,2280.0,-1.0365580099002214,True,False,False,False,570.0
+107,21-05-2024,14,Gael Martinez,gael.martinez@mail.com,Carlos Paz,14-01-2023,5,Agua Mineral 500ml,Alimentos,4,4777.0,19108.0,2.1639825869810485,True,False,False,False,4777.0
+108,25-03-2024,9,Yamila Molina,yamila.molina@mail.com,Carlos Paz,09-01-2023,90,Toallas Húmedas x50,Limpieza,4,2902.0,11608.0,0.7375472128064867,False,False,True,False,2902.0
+109,04-06-2024,64,Julian Alvarez,julian.alvarez@mail.com,Villa Maria,05-03-2023,18,Queso Rallado 150g,Limpieza,1,3444.0,3444.0,-0.8151752398283294,False,False,False,True,3444.0
+109,04-06-2024,64,Julian Alvarez,julian.alvarez@mail.com,Villa Maria,05-03-2023,74,Whisky 750ml,Limpieza,1,2953.0,2953.0,-0.9085592089909573,False,False,False,True,2953.0
+109,04-06-2024,64,Julian Alvarez,julian.alvarez@mail.com,Villa Maria,05-03-2023,20,Pan Lactal Blanco,Limpieza,2,1571.0,3142.0,-0.8726130375617583,False,False,False,True,1571.0
+109,04-06-2024,64,Julian Alvarez,julian.alvarez@mail.com,Villa Maria,05-03-2023,44,Arroz Largo Fino 1kg,Limpieza,5,2979.0,14895.0,1.3627062894613913,False,False,False,True,2979.0
+110,19-05-2024,92,Mariana Rodriguez,mariana.rodriguez@mail.com,Alta Gracia,02-04-2023,6,Jugo de Naranja 1L,Limpieza,1,4170.0,4170.0,-0.6770962956082318,True,False,False,False,4170.0
+110,19-05-2024,92,Mariana Rodriguez,mariana.rodriguez@mail.com,Alta Gracia,02-04-2023,59,Chicle Menta,Alimentos,3,3612.0,10836.0,0.5907194649581186,True,False,False,False,3612.0
+110,19-05-2024,92,Mariana Rodriguez,mariana.rodriguez@mail.com,Alta Gracia,02-04-2023,6,Jugo de Naranja 1L,Limpieza,5,4170.0,20850.0,2.495295976555993,True,False,False,False,4170.0
+111,12-02-2024,48,Rocio Alvarez,rocio.alvarez@mail.com,Cordoba,17-02-2023,97,Limpiavidrios 500ml,Alimentos,4,872.0,3488.0,-0.8068068189665053,True,False,False,False,872.0
+111,12-02-2024,48,Rocio Alvarez,rocio.alvarez@mail.com,Cordoba,17-02-2023,93,Cepillo de Dientes,Alimentos,3,2142.0,6426.0,-0.24802453505652367,True,False,False,False,2142.0
+111,12-02-2024,48,Rocio Alvarez,rocio.alvarez@mail.com,Cordoba,17-02-2023,20,Pan Lactal Blanco,Limpieza,2,1571.0,3142.0,-0.8726130375617583,True,False,False,False,1571.0
+111,12-02-2024,48,Rocio Alvarez,rocio.alvarez@mail.com,Cordoba,17-02-2023,23,Bizcochos Salados,Alimentos,4,2380.0,9520.0,0.3404276046362888,True,False,False,False,2380.0
+112,19-01-2024,28,Rocio Silva,rocio.silva@mail.com,Cordoba,28-01-2023,55,Shampoo 400ml,Alimentos,1,1407.0,1407.0,-1.2025950874541402,False,False,True,False,1407.0
+112,19-01-2024,28,Rocio Silva,rocio.silva@mail.com,Cordoba,28-01-2023,21,Pan Lactal Integral,Alimentos,4,272.0,1088.0,-1.263266138702365,False,False,True,False,272.0
+112,19-01-2024,28,Rocio Silva,rocio.silva@mail.com,Cordoba,28-01-2023,43,Salsa de Tomate 500g,Alimentos,5,887.0,4435.0,-0.6266955790540639,False,False,True,False,887.0
+112,19-01-2024,28,Rocio Silva,rocio.silva@mail.com,Cordoba,28-01-2023,13,Té Verde 20 saquitos,Alimentos,2,2383.0,4766.0,-0.5637422312071599,False,False,True,False,2383.0
+112,19-01-2024,28,Rocio Silva,rocio.silva@mail.com,Cordoba,28-01-2023,59,Chicle Menta,Alimentos,1,3612.0,3612.0,-0.7832230874468192,False,False,True,False,3612.0
+113,08-03-2024,98,Camila Castro,camila.castro@mail.com,Cordoba,08-04-2023,53,Lavandina 1L,Alimentos,2,1664.0,3328.0,-0.8372374402822292,False,False,False,True,1664.0
+113,08-03-2024,98,Camila Castro,camila.castro@mail.com,Cordoba,08-04-2023,92,Crema Dental 90g,Limpieza,3,2512.0,7536.0,-0.036912099678688554,False,False,False,True,2512.0
+114,05-05-2024,16,Felipe Alvarez,felipe.alvarez@mail.com,Rio Cuarto,16-01-2023,8,Energética Nitro 500ml,Limpieza,1,4218.0,4218.0,-0.6679671092135147,False,True,False,False,4218.0
+114,05-05-2024,16,Felipe Alvarez,felipe.alvarez@mail.com,Rio Cuarto,16-01-2023,84,Queso Azul 150g,Limpieza,1,1645.0,1645.0,-1.1573295382470008,False,True,False,False,1645.0
+114,05-05-2024,16,Felipe Alvarez,felipe.alvarez@mail.com,Rio Cuarto,16-01-2023,10,Yerba Mate Intensa 1kg,Limpieza,1,4883.0,4883.0,-0.5414898393700368,False,True,False,False,4883.0
+114,05-05-2024,16,Felipe Alvarez,felipe.alvarez@mail.com,Rio Cuarto,16-01-2023,55,Shampoo 400ml,Alimentos,5,1407.0,7035.0,-0.13219798267354926,False,True,False,False,1407.0
+114,05-05-2024,16,Felipe Alvarez,felipe.alvarez@mail.com,Rio Cuarto,16-01-2023,92,Crema Dental 90g,Limpieza,4,2512.0,10048.0,0.44084865497817793,False,True,False,False,2512.0
+115,16-02-2024,3,Hernan Martinez,hernan.martinez@mail.com,Rio Cuarto,03-01-2023,17,Queso Cremoso 500g,Alimentos,4,4834.0,19336.0,2.2073462223559552,False,False,False,True,4834.0
+115,16-02-2024,3,Hernan Martinez,hernan.martinez@mail.com,Rio Cuarto,03-01-2023,97,Limpiavidrios 500ml,Alimentos,5,872.0,4360.0,-0.6409599327958095,False,False,False,True,872.0
+115,16-02-2024,3,Hernan Martinez,hernan.martinez@mail.com,Rio Cuarto,03-01-2023,95,Mascarilla Capilar,Alimentos,4,1581.0,6324.0,-0.2674240561452977,False,False,False,True,1581.0
+115,16-02-2024,3,Hernan Martinez,hernan.martinez@mail.com,Rio Cuarto,03-01-2023,84,Queso Azul 150g,Limpieza,2,1645.0,3290.0,-0.8444647128447137,False,False,False,True,1645.0
+116,18-03-2024,25,Karina Castro,karina.castro@mail.com,Rio Cuarto,25-01-2023,65,Cerveza Rubia 1L,Alimentos,1,2423.0,2423.0,-1.009360642099293,False,True,False,False,2423.0
+116,18-03-2024,25,Karina Castro,karina.castro@mail.com,Rio Cuarto,25-01-2023,35,Barrita de Cereal 30g,Alimentos,2,4430.0,8860.0,0.21490129170892738,False,True,False,False,4430.0
+116,18-03-2024,25,Karina Castro,karina.castro@mail.com,Rio Cuarto,25-01-2023,42,Vinagre de Alcohol 500ml,Limpieza,4,1195.0,4780.0,-0.5610795518420342,False,True,False,False,1195.0
+116,18-03-2024,25,Karina Castro,karina.castro@mail.com,Rio Cuarto,25-01-2023,54,Jabón de Tocador,Limpieza,5,1592.0,7960.0,0.043729046807979996,False,True,False,False,1592.0
+116,18-03-2024,25,Karina Castro,karina.castro@mail.com,Rio Cuarto,25-01-2023,90,Toallas Húmedas x50,Limpieza,4,2902.0,11608.0,0.7375472128064867,False,True,False,False,2902.0
+117,14-03-2024,72,Camila Rodriguez,camila.rodriguez@mail.com,Cordoba,13-03-2023,67,Vino Tinto Malbec 750ml,Alimentos,4,4719.0,18876.0,2.1198581860732486,False,False,True,False,4719.0
+117,14-03-2024,72,Camila Rodriguez,camila.rodriguez@mail.com,Cordoba,13-03-2023,61,Miel Pura 250g,Alimentos,2,4982.0,9964.0,0.42487257878742285,False,False,True,False,4982.0
+118,09-02-2024,84,Pablo Sanchez,pablo.sanchez@mail.com,Cordoba,25-03-2023,68,Vino Blanco 750ml,Limpieza,5,2684.0,13420.0,1.082173999207061,True,False,False,False,2684.0
+118,09-02-2024,84,Pablo Sanchez,pablo.sanchez@mail.com,Cordoba,25-03-2023,68,Vino Blanco 750ml,Limpieza,3,2684.0,8052.0,0.06122665406452128,True,False,False,False,2684.0
+118,09-02-2024,84,Pablo Sanchez,pablo.sanchez@mail.com,Cordoba,25-03-2023,70,Fernet 750ml,Limpieza,2,4061.0,8122.0,0.07454005089015053,True,False,False,False,4061.0
+118,09-02-2024,84,Pablo Sanchez,pablo.sanchez@mail.com,Cordoba,25-03-2023,93,Cepillo de Dientes,Alimentos,3,2142.0,6426.0,-0.24802453505652367,True,False,False,False,2142.0
+118,09-02-2024,84,Pablo Sanchez,pablo.sanchez@mail.com,Cordoba,25-03-2023,50,Azúcar 1kg,Limpieza,2,727.0,1454.0,-1.1936560924426465,True,False,False,False,727.0
+119,07-02-2024,51,Agustina Gomez,agustina.gomez@mail.com,Rio Cuarto,20-02-2023,45,Fideos Spaghetti 500g,Alimentos,5,745.0,3725.0,-0.7617314611425892,False,True,False,False,745.0
+120,21-04-2024,72,Camila Rodriguez,camila.rodriguez@mail.com,Cordoba,13-03-2023,20,Pan Lactal Blanco,Limpieza,5,1571.0,7855.0,0.023758951569536134,False,False,True,False,1571.0
