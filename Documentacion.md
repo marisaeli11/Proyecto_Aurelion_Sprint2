@@ -245,3 +245,9 @@ Insight:
 ---
 
 Estos insights son los más relevantes para la presentación del Sprint 2.
+
+---
+##### Repositorio en gitHub
+El presente proyecto se encuentra en un repositorio: 
+[Ver Proyecto Aurilion Sprint 2 en GitHub](https://github.com/marisaeli11/Proyecto_Aurelion_Sprint2)
+
